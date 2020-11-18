@@ -1,2 +1,2 @@
-# JS sceleton
+# JS skeleton
  
